@@ -1,0 +1,14 @@
+{
+    "fileLocations": [
+        {
+            "URIs": [
+                    "https://team4-fraud-detetection.s3.amazonaws.com/claims_customer.csv",
+                    "https://team4-fraud-detetection.s3.amazonaws.com/claims_preprocessed.csv",
+                    "https://team4-fraud-detetection.s3.amazonaws.com/customers_preprocessed.csv"
+                ]
+        }
+    ],
+    "globalUploadSettings": {
+        "textqualifier": "\""
+    }
+}
