@@ -19,6 +19,11 @@ The system architecture leverages a variety of AWS services, as shown below:
 8. *Amazon QuickSight*: Provides dashboards and visualizations for monitoring system performance.
 9. *Amazon Simple Email Service (SES)*: Sends email alerts for suspicious activities.
 
+## Dashboard
+An example dashboard for the admin user, as shown below:
+
+![Architecture Diagram](./YearCases.png)
+
 ## Features
 - *Real-Time Monitoring*: Continuously monitors transaction data for potential fraudulent activity.
 - *Machine Learning Integration*: Uses machine learning models developed in SageMaker to detect and predict fraudulent behavior.
