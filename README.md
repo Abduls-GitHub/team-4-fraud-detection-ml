@@ -6,7 +6,7 @@ This project is designed to create an advanced real-time fraud detection system 
 ## Architecture
 The system architecture leverages a variety of AWS services, as shown below:
 
-![Architecture Diagram](./fraud-detector.png)
+![Architecture Diagram](./fraud-detector.jpg)
 
 ### Key Components:
 1. *Users*: Frontend users who interact with the system to view fraud detection insights and alerts.
